@@ -1,6 +1,6 @@
 # Hangman – Python Lernprojekt
 
-## 📌 Projektbeschreibung
+## Projektbeschreibung
 Dieses Projekt ist eine einfache Konsolen-Version des Spiels **Hangman**, die ich zu Beginn meines Python-Lernwegs umgesetzt habe.  
 Ziel war es, grundlegende Programmierkonzepte praktisch anzuwenden und ein vollständiges, funktionierendes Programm zu schreiben.
 
@@ -9,14 +9,14 @@ Das Spiel endet, wenn das Wort vollständig erraten wurde oder keine Leben mehr 
 
 ---
 
-## 🛠️ Technologien
+## Technologien
 - Programmiersprache: **Python**
 - Standardbibliothek: random
 - Ausführung über die Konsole / Terminal
 
 ---
 
-## 🧠 Was ich in diesem Projekt gelernt habe
+## Was ich in diesem Projekt gelernt habe
 - Arbeiten mit **Variablen** und **Listen**
 - Strukturierung von Code mit **Funktionen**
 - Einsatz von **while- und for-Schleifen**
@@ -28,7 +28,7 @@ Das Spiel endet, wenn das Wort vollständig erraten wurde oder keine Leben mehr 
 
 ---
 
-## ▶️ Spielablauf
+## Spielablauf
 1. Ein zufälliges Wort wird aus einer Wortliste ausgewählt  
 2. Der Spieler gibt Buchstaben ein  
 3. Richtige Buchstaben werden im Wort angezeigt  
@@ -38,13 +38,13 @@ Das Spiel endet, wenn das Wort vollständig erraten wurde oder keine Leben mehr 
 
 ---
 
-## 📂 Status
-🟡 **Lernprojekt**
+## Status
+**Lernprojekt**
 
 Dieses Projekt ist Teil meines persönlichen Lern- und Bewerbungsportfolios.
 
 ---
 
-## 💡 Hinweis
+## Hinweis
 Der Code wurde bewusst einfach gehalten, um die Grundlagen verständlich darzustellen.  
 
