@@ -3,12 +3,12 @@ import random
 def hangman():
     woerter = [
         "apfel", "banane", "schokolade", "haus", "urlaub", "strand",
-        "sonne", "wolke", "regen", "schnee", "garten", "blume",
+        "sonne", "wolke", "regen", "schnee", "garten", "blumen",
         "baum", "fahrrad", "auto", "zug", "flugzeug", "kuchen",
         "wasserfall", "berge", "insel", "himmel", "meer", "wald",
         "vogel", "schmetterling", "kirsche", "pilz", "mond", "stern",
-        "fluss", "see", "fee", "zauber", "tanz", "musik", "lied",
-        "ball", "spielen", "freund", "schule", "lehrer", "kino", 
+        "fluss", "see", "leer", "zauber", "tanzen", "musik", "lieder",
+        "Fußball", "spielen", "freund", "schule", "lehrer", "kino", 
     ]
 
     galgen = [
